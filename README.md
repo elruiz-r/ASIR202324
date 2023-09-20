@@ -1,7 +1,7 @@
-# ASIR202324
-Apuntes ASIR curso 2023-24
-Asignatuas:
-  ·Implantación de Sistemas Operativos (ISO)
-  ·Planificación y Administración de Redes (PAR)
-  ·Seguridad y Alta Disponibilidad (SAD)
-  ·Sistemas Gestores de Bases de Datos (SGBD)
+# ASIR 2023-2024
+                                              (https://github.com/elruiz-r/ASIR202324.git)
+# Módulos: <br>
+*  ·Implantación de Sistemas Operativos (ISO)  <br>
+*  ·Planificación y Administración de Redes (PAR)  <br>
+*  ·Seguridad y Alta Disponibilidad (SAD)  <br>
+*  ·Sistemas Gestores de Bases de Datos (SGBD)  <br>
